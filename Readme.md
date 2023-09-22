@@ -7,4 +7,9 @@
 ## AI and Ethics
 1. https://www.phdedits.in
 2. https://uasconferences.com/2024_icuas/call-for-papers/
-3. 
+3. https://iccit.org.bd/2023/home/
+
+
+## Scheduling Algorithm 
+1. https://iccit.org.bd/2023/home/
+2. 
