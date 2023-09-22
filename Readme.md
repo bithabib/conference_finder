@@ -1,6 +1,6 @@
 # Conference Finder 
 1. https://conferences.ieee.org/conferences_events/conferences/search
-2. https://controls.papercept.net/conferences/scripts/submission.pl
+2. https://controls.papercept.net/conferences/scripts/start.pl
 3. 
 
 
