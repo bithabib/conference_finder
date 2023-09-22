@@ -12,4 +12,10 @@
 
 ## Scheduling Algorithm 
 1. https://iccit.org.bd/2023/home/  --> Bangladesh
-2. 
+2. https://www.icps23.com/ --> Bnagladesh 
+
+
+
+
+## IEEE Paper Official Paper Template 
+1. https://www.overleaf.com/gallery/tagged/ieee-official
